@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "2X7vhe5X3h4EkZw6c9eEe"
+uri = "file://artifacts/mambofades/public/images/fade.png"
+type = "image"
+title = "Skin fade haircut"
+
+[[generated]]
+id = "JOSvWMGrw-2s9alyzG3zM"
+uri = "file://artifacts/mambofades/public/images/cut.png"
+type = "image"
+title = "Classic taper cut"
+
+[[generated]]
+id = "6KJDUM4MzeFGrrUKjZeaL"
+uri = "file://artifacts/mambofades/public/images/design.png"
+type = "image"
+title = "Haircut with design"
+
+[[generated]]
+id = "heCab0s7VdZNd2I9TODWp"
+uri = "file://artifacts/mambofades/public/images/beard.png"
+type = "image"
+title = "Sculpted beard trim"
